@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My oustanding skills
+* **I eat very slowly**
+* *I can climb trees*
+* __I can sleep from 0 - 18 hours a day__
